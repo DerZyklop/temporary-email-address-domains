@@ -2,7 +2,7 @@
 
 Useful for filtering your email list to increase open rates (sending email to these domains likely will not be opened) or validating an email input against fake adresses.
 
-## Contributing to gitmoji
+## Contributing
 Feel free to make pull requests or check if there is a pull request that has not been reviewed yet. Every domain should be double-checked once to make sure no provider for real email accounts sneaks into the list.
 
 ##### Credits 
